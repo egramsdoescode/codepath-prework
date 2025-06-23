@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<video src="https://i.imgur.com/bYSOXIt.mp4"></video>
+<video src="https://github.com/user-attachments/assets/a85f436a-5126-4f4c-a9bf-fe25c65281ad"></video>
 
 ## App Brainstorming (Step 4)
 
