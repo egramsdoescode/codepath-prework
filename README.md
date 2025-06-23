@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Personal Introduction App](https://i.imgur.com/bYSOXIt.mp4)
+<video src="https://i.imgur.com/bYSOXIt.mp4"></video>
 
 ## App Brainstorming (Step 4)
 
